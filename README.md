@@ -63,7 +63,8 @@ uk - украинский (Ukrainian)
 bn - бенгальский (Bengali)
 
 
-#Пример Кода
+
+##Пример Кода
 
 ```
 from YANDEX_TRANSLATE_API import API_YANDEX_TRANSLATE
