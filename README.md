@@ -61,3 +61,14 @@ ro - румынский (Romanian)
 uk - украинский (Ukrainian)
 
 bn - бенгальский (Bengali)
+
+
+#Пример Кода
+
+```
+from YANDEX_TRANSLATE_API import API_YANDEX_TRANSLATE
+
+text = API_YANDEX_TRANSLATE("Привет", "ru", "en")
+print(text)
+
+```
