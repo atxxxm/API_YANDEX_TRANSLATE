@@ -73,3 +73,10 @@ text = API_YANDEX_TRANSLATE("Привет", "ru", "en")
 print(text)
 
 ```
+
+### Установка необходимой библиотеки
+
+```
+pip install playwright
+```
+
