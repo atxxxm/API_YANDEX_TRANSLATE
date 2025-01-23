@@ -14,7 +14,7 @@ def API_YANDEX_TRANSLATE(text, from_la, to_la):
         sleep(0.2)
         swap_btn.click()
         translate_text = page.locator(translate).inner_text()
-        
+        browser.close()
         return translate_text
         
         
